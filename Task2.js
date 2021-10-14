@@ -15,17 +15,17 @@ console.log(Lama);
 //print the type of each variabul:
 
 console.log(
-  typeof num1 + " " + typeof name + " " + typeof arr + " " + typeof Lama
+  typeof "num1" + " " + typeof "name" + " " + typeof "arr" + " " + typeof "Lama"
 );
 
 let numArr = ["Hala", 20, "Ghala", 18, "Nouf", 10];
 // i guess it will show " opject"
-console.log(typeof numArr);
+console.log(typeof "numArr");
 
 //create null value
 let nulVal;
 //it will be undefine
-console.log(typeof nulVal);
+console.log(typeof "nulVal");
 
 
 let str= "heLLo wOrld"
