@@ -26,3 +26,12 @@ console.log(typeof numArr);
 let nulVal;
 //it will be undefine
 console.log(typeof nulVal);
+
+
+let str= "heLLo wOrld"
+letcontrol= "upper";
+if (control === true) {
+  console.log(str.toLowerCase());
+} else {
+  console.log(str.toUpperCase());
+}
